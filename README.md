@@ -1,3 +1,3 @@
 # flappy-bird
 
-> A simple implementation of the main Flappy Bird
+> A simple implementation of the main Flappy Birdie
